@@ -2,6 +2,7 @@ const version = 'template-v1'
 const assets = [
   'index.html',
   'style.css',
+  'manifest.json',
   'js/main.js',
   'js/serviceworker.js',
   'images/icon-180.png',
