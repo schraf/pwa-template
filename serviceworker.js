@@ -1,13 +1,13 @@
 const version = 'template-v1'
 const assets = [
-  '../index.html',
-  '../style.css',
-  '../manifest.json',
-  './main.js',
-  './serviceworker.js',
-  '../images/icon-180.png',
-  '../images/icon-192.png',
-  '../images/icon-512.png'
+  'index.html',
+  'style.css',
+  'manifest.json',
+  'serviceworker.js',
+  'js/main.js',
+  'images/icon-180.png',
+  'images/icon-192.png',
+  'images/icon-512.png'
 ]
 
 async function install() {
