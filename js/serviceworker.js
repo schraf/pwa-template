@@ -45,5 +45,5 @@ self.addEventListener('activate', e => {
         caches.delete(key)
       }
     }))
-  })
+  }))
 })
